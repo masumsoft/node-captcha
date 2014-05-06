@@ -5,6 +5,10 @@
   "author": "napa3um <napa3um@gmail.com>",
   "dependencies": { "canvas": ">= 0.9.0" },
   "main": "./captcha.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/napa3um/node-captcha.git"
+  },
   "engines": { "node": ">= 0.1.98" }
 }
 
